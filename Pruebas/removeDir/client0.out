@@ -1,0 +1,22 @@
+220 TallerFTP
+331 Please specify the password.
+230 Login successful.
+150 Here comes the directory listing.
+226 Directory send OK.
+257 "foo" created
+257 "bar" created
+257 "bar con espacios" created
+257 "unDirectorioConUnNombreBastanteLargoPeroNoTanto" created
+150 Here comes the directory listing.
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 bar
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 bar con espacios
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 foo
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 unDirectorioConUnNombreBastanteLargoPeroNoTanto
+226 Directory send OK.
+250 "foo" Remove directory operation successful.
+150 Here comes the directory listing.
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 bar
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 bar con espacios
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 unDirectorioConUnNombreBastanteLargoPeroNoTanto
+226 Directory send OK.
+221 Goodbye.

@@ -1,0 +1,3 @@
+/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug/CMakeFiles/EJ3___HoneyPot_FTP.dir
+/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug/CMakeFiles/edit_cache.dir

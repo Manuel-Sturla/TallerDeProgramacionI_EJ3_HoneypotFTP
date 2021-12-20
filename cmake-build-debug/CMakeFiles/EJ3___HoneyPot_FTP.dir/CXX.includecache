@@ -1,0 +1,434 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.cpp
+iostream
+-
+client_Cliente.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.h
+server_Servidor.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.h
+server_Servidor.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h
+client_Servidor_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.cpp
+sstream
+-
+algorithm
+-
+client_Servidor_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.h
+string
+-
+common_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_main.cpp
+iostream
+-
+client_Cliente.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.cpp
+common_Error_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h
+stdexcept
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.cpp
+sys/socket.h
+-
+csignal
+-
+stdexcept
+-
+unistd.h
+-
+netdb.h
+-
+cstring
+-
+iostream
+-
+common_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+common_Error_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h
+cstdio
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+common_Error_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.cpp
+server_Aceptador.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.h
+utility
+-
+algorithm
+-
+iostream
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.h
+string
+-
+vector
+-
+atomic
+-
+common_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+server_Hilo.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.h
+server_Comunicador.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.cpp
+iostream
+-
+sstream
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+string
+-
+common_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.cpp
+iostream
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+unordered_map
+-
+utility
+-
+bits/unordered_map.h
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+string
+-
+unordered_map
+-
+bits/unordered_map.h
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.cpp
+server_Comando_HELP.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.h
+string
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.cpp
+server_Comando_INVALID.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.h
+unordered_map
+-
+string
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.cpp
+iostream
+-
+server_Comando_LIST.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.h
+set
+-
+unordered_map
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.cpp
+iostream
+-
+server_Comando_MKD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.h
+set
+-
+unordered_map
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.h
+set
+-
+unordered_map
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.cpp
+server_Comando_NEW.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.h
+string
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.cpp
+iostream
+-
+server_Comando_PASS.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+unordered_map
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.cpp
+iostream
+-
+server_Comando_PWD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.h
+unordered_map
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.cpp
+server_Comando_QUIT.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.cpp
+iostream
+-
+server_Comando_RMD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.h
+set
+-
+unordered_map
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.cpp
+server_Comando_SYST.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+unordered_map
+-
+string
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.cpp
+iostream
+-
+unordered_map
+-
+server_Comando_USER.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.h
+string
+-
+unordered_map
+-
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.cpp
+iostream
+-
+server_Comunicador.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.h
+common_Error_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.h
+atomic
+-
+server_Hilo.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.h
+common_Socket.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.cpp
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+set
+-
+string
+-
+mutex
+-
+vector
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.cpp
+memory
+-
+unordered_map
+-
+set
+-
+server_Fabrica_Comandos.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.h
+server_Comando_PWD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.h
+server_Comando_USER.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.h
+server_Comando_PASS.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.h
+server_Comando_MKD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.h
+server_Comando_RMD.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.h
+server_Comando_LIST.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.h
+server_Comando_INVALID.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.h
+server_Comando_QUIT.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.h
+server_Comando_NEW.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.h
+server_Comando_HELP.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.h
+server_Comando_SYST.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.h
+unordered_map
+-
+set
+-
+unordered_map
+-
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.cpp
+server_Hilo.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.h
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.h
+thread
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.cpp
+server_Servidor.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h
+server_Fabrica_Comandos.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.h
+server_Aceptador.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.h
+server_Cliente_Proxy.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h
+istream
+-
+fstream
+-
+sstream
+-
+iostream
+-
+algorithm
+-
+unordered_map
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h
+client_Cliente.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.h
+server_Comando.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h
+server_Aceptador.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.h
+server_Directorios_Protegido.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h
+unordered_map
+-
+set
+-
+vector
+-
+string
+-
+
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_main.cpp
+iostream
+-
+server_Servidor.h
+/home/manfer/Documentos/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h
+

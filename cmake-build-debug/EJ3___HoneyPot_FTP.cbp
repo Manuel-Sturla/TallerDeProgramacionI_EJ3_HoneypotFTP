@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="EJ3___HoneyPot_FTP"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EJ3___HoneyPot_FTP">
+				<Option output="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/EJ3___HoneyPot_FTP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 EJ3___HoneyPot_FTP"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="EJ3___HoneyPot_FTP/fast">
+				<Option output="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/EJ3___HoneyPot_FTP" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 EJ3___HoneyPot_FTP/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/manfer/Documents/Fiuba/Taller\ de\ Programacion\ I/EJ3\ -\ HoneyPot\ FTP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Cliente.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_Servidor_Proxy.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/client_main.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Error_Socket.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/common_Socket.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Aceptador.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Cliente_Proxy.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_HELP.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_INVALID.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_LIST.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_MKD.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_NEW.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PASS.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_PWD.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_QUIT.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_RMD.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_SYST.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comando_USER.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Comunicador.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Directorios_Protegido.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Error_Servidor.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Error_Servidor.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Fabrica_Comandos.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Hilo.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_Servidor.h">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/server_main.cpp">
+			<Option target="EJ3___HoneyPot_FTP"/>
+		</Unit>
+		<Unit filename="/home/manfer/Documents/Fiuba/Taller de Programacion I/EJ3 - HoneyPot FTP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

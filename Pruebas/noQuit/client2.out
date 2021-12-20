@@ -1,0 +1,8 @@
+220 TallerFTP
+331 Please specify the password.
+230 Login successful.
+150 Here comes the directory listing.
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 bar
+drwxrwxrwx 0 1000 1000 4096 Sep 24 12:34 foo
+226 Directory send OK.
+221 Goodbye.
